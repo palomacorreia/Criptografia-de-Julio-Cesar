@@ -41,6 +41,3 @@ Para rodar:
 $ node run go
 ```
 
-## Autor 
-
-* **Rafael Coelho** - [rafaellcoellho](https://github.com/rafaellcoellho)
